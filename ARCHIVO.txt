@@ -1,0 +1,4 @@
+Id=1, Nombre=luis, Salario=300.0 Salario Final= 360.0
+Id=2, Nombre=maria, Salario=430.0 Salario Final= 430.0
+Empleado: Id=3, Nombre=diana, Salario=124.0 Salario Final= 124.0
+Programador: Id=3, Nombre=diana, Salario=124.0 Salario Final= 124.0
