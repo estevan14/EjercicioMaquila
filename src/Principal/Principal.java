@@ -26,7 +26,7 @@ public class Principal {
 
         while (salir == false) {
 
-            System.out.println("INGRESAR PROGRAMADORES");
+            System.out.println("INGRESAR PROGRAMADORES:");
 
             System.out.println("Ingrese su nombre: ");
             nombre = sr.next();
